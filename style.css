@@ -1,0 +1,41 @@
+body {
+	background-color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+h1	{
+	color: #F8003C;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+h2	{
+	color: rgb(53,230,134);
+	text-decoration: underline;
+}
+img {
+	width: 150px;
+}
+#header {
+	background-image: url(https://www.freewebheaders.com/wordpress/wp-content/uploads/web-header-1140x333-2.jpg);
+	background-size: cover;
+	height: 200px;
+}
+.menu-jour {
+	font-size:15px;
+}
+
+.menu-image {
+	border-radius: 50%;
+}
+
+#footer {
+	font-size:50px;
+	color:black;
+}
+
+#footer a {
+	color:black;
+}
+#footer a:hover {
+	color:pink;
+}
